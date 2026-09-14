@@ -83,3 +83,11 @@ Official distribution only on **CurseForge · Modrinth · Planet Minecraft · Gi
 - Expansion maintained by [aricloverEXTRA](https://github.com/aricloverEXTRA) · Codeberg: [aric3435](https://codeberg.org/aric3435)
 - All mod textures © their respective authors — included with permission or under their original licenses.
 
+---
+## 🖥️ Server Hosting
+Need a Minecraft server? Check out Sparked Host for reliable Minecraft server hosting.
+Use code Aric3435 for 25% off!
+
+<a href="https://sparked.host/Aric3435">
+  <img src="https://cdn.modrinth.com/data/cached_images/e161ed94f705073a7315f66315107fec47370e16.png" alt="Sparked Hosting Banner">
+</a>
